@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "include": ["src/"],
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "dist/",
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["ESNext"],
+    "allowJs": false,
+    "checkJs": false,
+    "noEmit": false,
+  }
+}
