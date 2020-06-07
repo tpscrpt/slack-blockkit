@@ -1,6 +1,6 @@
 {
-  "name": "slack-blockkit",
-  "description": "TypeScript/IntelliSense support for Slack BlockKit",
+  "name": "blockkit-js",
+  "description": "Helper library w/ IntelliSense support for Slack BlockKit",
   "version": "0.1.0",
   "keywords": [
     "slack",
